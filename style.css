@@ -37,6 +37,15 @@
     line-height: 1.5;
     text-align: center;
   }
+  @media(max-width:667px){
+     h1, h2, h3 {
+         color: palevioletred;
+         
+     } 
+  }
+  
+ 
+
   
   .navigation-links {
     display: flex;
