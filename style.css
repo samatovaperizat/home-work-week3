@@ -40,10 +40,18 @@
   @media(max-width:667px){
      h1, h2, h3 {
          color: palevioletred;
+         font-family: cursive;
          
      } 
   }
-  
+  @media(min-width:667px){
+   .navbar-brand{
+        border-color:palevioletred;
+        font-family: cursive;
+        
+    } 
+ }
+ 
  
 
   
